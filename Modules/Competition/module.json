@@ -1,0 +1,13 @@
+{
+    "name": "Competition",
+    "alias": "competition",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Competition\\Providers\\CompetitionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,10 @@
+{
+    "Accounts": true,
+    "Training": true,
+    "Research": true,
+    "Event": true,
+    "Team": true,
+    "Competition": true,
+    "Store": true,
+    "News": true
+}
